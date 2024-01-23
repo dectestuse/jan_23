@@ -25,5 +25,4 @@ step13 - check github repository
 step14 - git pull 
 
 
-collabrator
 
